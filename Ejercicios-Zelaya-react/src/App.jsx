@@ -6,7 +6,7 @@ import './App.css'
 import './Components/Boton'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
